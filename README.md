@@ -1,4 +1,4 @@
-# Spring4.X + Spring MVC + Mybatis3 零配置应用开发框架搭建详解(1) - 基本介绍
+﻿# Spring4.X + Spring MVC + Mybatis3 零配置应用开发框架搭建详解(1) - 基本介绍
 > 两年前一直在做后台的纯java开发，很少涉及web开发这块，最近换了个纯的互联网公司，需要做Web后台管理系统，之前都是用xml配置的项目，接触了公司Spring4.x的零配置项目，觉得非常有感觉，不仅仅配置简单，而且条理清晰，所以，这里把学习的内容记录下来，一来加深对这块技术的印象，另外准备做个简单的教程，如果给其他人分享的时候还可以拿来直接用。
 
 > 首先讲讲为什么要做框架搭建？现在的开源软件，都是一些很有想法的一群技术大牛利用业余时间弄出来的，而刚开始做框架的时候，是要解决他们工作中面临的一些问题？比如解决javaBean的依赖管理，出现了spring，解决数据库访问操作的问题诞生了Hibernate，Mybatis，解决业务逻辑代码与视图代码的分离，诞生了Struts，SpringMVC......可能你会问，为什么不直接来一个包含全部解决方案的框架呢？我个人认为有以下几个原因：
@@ -44,3 +44,8 @@
 2
 3
 345454544
+5
+6
+7
+8
+9asdfsdfasdfasdfasdfasdjfhkjasdhfkjadshfjkasdhfkjhasdkjfhkdjasfhkjasdhfiaudysfuihsndkjfhafdlkdsjflkasdjfiojdslkfweflkajfqewjfldsjkfhdjkasflsdk
